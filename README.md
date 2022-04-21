@@ -1,10 +1,10 @@
 # Deta pastebin
 Free pastebin hosted on [Deta.sh](https://deta.sh)
 
-## [Demo](https://pasta.deta.dev/source)
+## [Demo](https://imagebin.deta.dev/source)
 
-## [ShareX config](https://pasta.deta.dev/sharex)
+## [ShareX config](https://lshort.deta.dev/images)
 
 ## Deploy
 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/cofob/deta-pasta)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/cofob/deta-images)
