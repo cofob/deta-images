@@ -1,5 +1,5 @@
 # Deta pastebin
-Free pastebin hosted on [Deta.sh](https://deta.sh)
+Free private image hosting on [Deta.sh](https://deta.sh)
 
 ## [Demo](https://imagebin.deta.dev/source)
 
